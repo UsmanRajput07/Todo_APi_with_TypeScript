@@ -1,7 +1,7 @@
 import express, { Request, Response } from "express";
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT =  3000;
 
 // Connect to MongoDB Atlas
 const MongoDB_Con = require("./MongoDB_Con/Mongo.config");

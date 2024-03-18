@@ -4,7 +4,7 @@
   "description": "",
   "main": "sever.js",
   "scripts": {
-    "test": "node server.ts"
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
